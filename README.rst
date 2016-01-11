@@ -32,7 +32,7 @@ Usage
 
 Tutorials and other information are available `here <http://arxiv.org/abs/1505.00641>`_.
 The C code is available as `subrepository <https://github.com/ibayer/fastFM-core>`_ and provides
-a stand alone command line interface. If you have still **questions** after reading the documentation please open a issue at github.
+a stand alone command line interface. If you have still **questions** after reading the documentation please open an issue at github.
 
 Installation
 ------------
@@ -55,7 +55,7 @@ Installation
     $ make
 
     # Install fastFM
-    pip install .
+    $ pip install .
 
 
 Tests
@@ -70,11 +70,11 @@ Contribution
 ------------
 
 * Star this repository: keeps contributors motivated
-* Open a issue: report bugs or suggest improvements
+* Open an issue: report bugs or suggest improvements
 * Fix errors in the documentation: small changes matter
 * Contribute code
 
-**Contributions are very wellcome!** Since this project lives on github we reommend
+**Contributions are very welcome!** Since this project lives on github we reommend
 to open a pull request (PR) for code contributions as early as possible. This is the
 fastest way to get feedback and allows `Travis CI <https://travis-ci.org/ibayer/fastFM>`_ to run checks on your changes.
 
